@@ -1,17 +1,17 @@
 # site settings
 title: Mario Sanhueza
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+email: msanhuezal@hotmail.cl
+description: Esta es una prueba usando los templates de Jekyll, y alojando el sitio es un servidor gratuido de Github.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address: Santiago/Rancagua
+city: Santiago
+state: CL
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Chile
+phone: +56 9 88888888
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
